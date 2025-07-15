@@ -1,0 +1,16 @@
+---
+title: " "
+pagetitle: "Takun Wang"
+---
+
+# Biography
+
+Welcome! My name is Takun (pronounced tuh-KOON, rhymes with “tycoon”) and this is my new personal website. I am currently learning how to build websites from scratch.
+
+* This is a list item.
+* This is another one.
+
+This is me trying to write text in **bold** or *italics* just like in regular Markdown.
+
+
+#Research

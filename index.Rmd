@@ -3,14 +3,58 @@ title: ' '
 pagetitle: Takun Wang
 ---
 
+<style>
+.column-left{
+  float: left;
+  width: 30%;
+  text-align: left;
+}
+.column-center{
+  display: inline-block;
+  width: 10%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 60%;
+  text-align: left;
+
+}
+</style>
+
+
+<div class="column-left">
+
+# TAKUN WANG
+
+<img src="images/takun_2022.jpeg" style="width: 87%">
+
+Ph.D. Student, Sociology & Social Policy  
+Princeton University
+
+</div>
+
+
+
+<div class="column-center">
+</div>
+
+
+
+<div class="column-right">
+
 # Biography
 
-Welcome! My name is Takun (pronounced tuh-KOON, rhymes with “tycoon”) and this is my new personal website. I am currently learning how to build websites from scratch.
+Welcome! My name is Takun (pronounced tah-KOON, rhymes with “tycoon”) and this is my academic website. I am currently learning how to build websites from scratch.
+
+Here's a link to my [*Curriculum Vitae*](https://drive.google.com/file/d/1YKjheNhJ9ViEE0HNoPQ6EqBIXrAWeoRr/view?usp=sharing).
+
+
+# Research
 
 * This is a list item.
 * This is another one.
 
 This is me trying to write text in **bold** or *italics* just like in regular Markdown.
 
-
-# Research
+</div>

@@ -1,2 +1,1 @@
-# wangtakun.github.io
-Website
+# Personal Academic Website

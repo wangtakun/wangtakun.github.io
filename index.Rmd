@@ -1,6 +1,6 @@
 ---
-title: " "
-pagetitle: "Takun Wang"
+title: ' '
+pagetitle: Takun Wang
 ---
 
 # Biography
@@ -13,4 +13,4 @@ Welcome! My name is Takun (pronounced tuh-KOON, rhymes with “tycoon”) and th
 This is me trying to write text in **bold** or *italics* just like in regular Markdown.
 
 
-#Research
+# Research

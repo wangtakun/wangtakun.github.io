@@ -1,1 +1,1 @@
-# Personal Academic Website
+# Personal Website

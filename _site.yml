@@ -1,5 +1,13 @@
 title: "Takun Wang"
 name: "Website"
+navbar:
+    title: " "
+    right:
+    - text: "Curriculum Vitae"
+      href: https://drive.google.com/file/d/1YKjheNhJ9ViEE0HNoPQ6EqBIXrAWeoRr/view?usp=drive_link
+
 output:
   html_document:
-    theme: cosmo
+    theme: flatly
+    includes:
+      in_header: header.html

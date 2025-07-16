@@ -8,6 +8,7 @@ navbar:
 
 output:
   html_document:
+    css: 'styles.css'
     theme: flatly
     includes:
       in_header: header.html

@@ -3,39 +3,21 @@ title: ' '
 pagetitle: Takun Wang
 ---
 
-<style>
-.column-left{
-  float: left;
-  width: 30%;
-  text-align: left;
-}
-.column-center{
-  display: inline-block;
-  width: 10%;
-  text-align: left;
-}
-.column-right{
-  float: right;
-  width: 60%;
-  text-align: left;
-}
-</style>
-
-
-
 
 <div class="column-left">
 
-<img src="images/takun_2023.jpeg" style="width: 90%">
+<img src="images/takun_2023.jpeg">
 
 **Takun Wang**  
-Ph.D. Student, Sociology & Social Policy
+Ph.D. Student, Sociology & Social Policy  
 Princeton University
+
 <hr>
 
 Email:  
 
 *takun.wang@princeton.edu*
+
 <hr>
 
 Links:  
@@ -46,13 +28,9 @@ Links:
 
 [*GitHub*](https://github.com/wangtakun)
 
+<hr>
+
 </div>
-
-
-
-<div class="column-center">
-</div>
-
 
 
 <div class="column-right">

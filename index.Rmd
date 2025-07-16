@@ -18,19 +18,33 @@ pagetitle: Takun Wang
   float: right;
   width: 60%;
   text-align: left;
-
 }
 </style>
 
 
+
+
 <div class="column-left">
 
-# TAKUN WANG
+<img src="images/takun_2023.jpeg" style="width: 90%">
 
-<img src="images/takun_2022.jpeg" style="width: 87%">
-
-Ph.D. Student, Sociology & Social Policy  
+**Takun Wang**  
+Ph.D. Student, Sociology & Social Policy
 Princeton University
+<hr>
+
+Email:  
+
+*takun.wang@princeton.edu*
+<hr>
+
+Links:  
+
+[*Curriculum Vitae*](https://drive.google.com/file/d/1YKjheNhJ9ViEE0HNoPQ6EqBIXrAWeoRr/view?usp=sharing)
+
+[*Princeton Sociology*](https://sociology.princeton.edu/people/graduate-students)  
+
+[*GitHub*](https://github.com/wangtakun)
 
 </div>
 
@@ -44,17 +58,29 @@ Princeton University
 <div class="column-right">
 
 # Biography
+<hr>
 
 Welcome! My name is Takun (pronounced tah-KOON, rhymes with “tycoon”) and this is my academic website. I am currently learning how to build websites from scratch.
 
 Here's a link to my [*Curriculum Vitae*](https://drive.google.com/file/d/1YKjheNhJ9ViEE0HNoPQ6EqBIXrAWeoRr/view?usp=sharing).
 
+<br>
+<br>
+<br>
 
 # Research
+<hr>
 
-* This is a list item.
-* This is another one.
+<h4> Working Papers </h4>
+* **Wang, Takun**. "School Distinction: How Social Class Shapes Parental School Choice"
+* **Wang, Takun**. "Does Schooling Promote Cognitive and Non-cognitive Skills? Evidence from a Regression Discontinuity Design."
 
-This is me trying to write text in **bold** or *italics* just like in regular Markdown.
+<br>
+<h4> Paper Under Review </h4>
+* **Wang, Takun**. "Institutionalizing 'Experimental Education': Between Alternative Education and State-Led Educational Experiments." (R&R, *Bulletin of Education Research*)
+
+<br>
+<h4> Published Papers </h4>
+&rarr; Please check my [*Curriculum Vitae*](https://drive.google.com/file/d/1YKjheNhJ9ViEE0HNoPQ6EqBIXrAWeoRr/view?usp=sharing).
 
 </div>

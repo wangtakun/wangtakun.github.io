@@ -28,8 +28,6 @@ Links:
 
 [*GitHub*](https://github.com/wangtakun)
 
-<hr>
-
 </div>
 
 
@@ -38,27 +36,50 @@ Links:
 # Biography
 <hr>
 
-Welcome! My name is Takun (pronounced tah-KOON, rhymes with “tycoon”) and this is my academic website. I am currently learning how to build websites from scratch.
+Welcome! My name is Takun (rhymes with “tycoon”) and I am a Ph.D. student in Sociology and Social Policy at Princeton University.  
 
-Here's a link to my [*Curriculum Vitae*](https://drive.google.com/file/d/1YKjheNhJ9ViEE0HNoPQ6EqBIXrAWeoRr/view?usp=sharing).
+My research interests lie at the intersection of social stratification and the sociology of education, with a focus on using quantitative methods—including causal inference, experimental designs, and computational techniques—to inform equity-promoting policies. My work seeks to address a central question: **To what extent, and how, can schooling alleviate social inequalities?** I have explored this question through three key dimensions:
+
+* **Access to education**, examined in my master’s thesis on parental school choice.
+
+* **The effects of schooling**, analyzed in a working paper on the heterogeneous impacts of schooling on cognitive and non-cognitive skills.
+
+* **Institutional processes within schools**, the subject of my published papers on curriculum development and AI in educational practice.  
+
+<br>
+
+I graduated with a B.A. in sociology from National Taiwan University and subsequently worked as a secondary school teacher and administrator in rural Taiwan for three years. Prior to starting at Princeton, I received a M.A. in education from National Taiwan Normal University, where I earned a scholarship to visit UC Berkeley for the 2023-24 academic year.  
+
+Currently, I’m investigating the role of standardized testing in college admissions, addressing the debate on whether such policies promote equity or reinforce privilege.
+
+<br>
+
+Please feel free to get in touch via [*email*](takun.wang@princeton.edu) or connect with me on [*X (formerly Twitter)*](https://x.com/takun_wang)!
 
 <br>
 <br>
 <br>
+
 
 # Research
 <hr>
 
-<h4> Working Papers </h4>
-* **Wang, Takun**. "School Distinction: How Social Class Shapes Parental School Choice"
+<h4> Working Paper </h4>
+
 * **Wang, Takun**. "Does Schooling Promote Cognitive and Non-cognitive Skills? Evidence from a Regression Discontinuity Design."
 
 <br>
+
 <h4> Paper Under Review </h4>
+
 * **Wang, Takun**. "Institutionalizing 'Experimental Education': Between Alternative Education and State-Led Educational Experiments." (R&R, *Bulletin of Education Research*)
 
 <br>
+
 <h4> Published Papers </h4>
-&rarr; Please check my [*Curriculum Vitae*](https://drive.google.com/file/d/1YKjheNhJ9ViEE0HNoPQ6EqBIXrAWeoRr/view?usp=sharing).
+
+* Fan, Hsin-Hsien and **Takun Wang**. 2025. "Exploring the Future Directions of Taiwan's Curriculum Development From the Perspective of International Educational Trends." *Journal of Education Research 371*: 118–32.
+
+* Lu, Ray and **Takun Wang**. 2023. "Crisis or Opportunity? The Disruption and Innovation of Artificial Intelligence in School Education——Starting with ChatGPT." *Journal of Education Research 355*: 4–15. 
 
 </div>

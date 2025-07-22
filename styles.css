@@ -2,7 +2,8 @@
 
 .column-left img {
   width: 250px;
-  display: block;
+  display: block;  /* Allows margin auto to work */
+  margin: 0 auto;  /* A trick to center a block element */
 }
 
 
@@ -15,15 +16,25 @@
   width: 100%;
   float: none;
   display: block;
-  text-align: left;
   margin-bottom: 80px;
 }
+
+.column-left {
+  text-align: center; /* Center the left column's content */
+}
+
+.column-center, 
+.column-right {
+  text-align: left;  /* Keep other columns left-aligned */
+}
+
 
 /* 2. Desktop Styles (for screens 768px or WIDER) */
 @media screen and (min-width: 768px) {
 
   .column-left {
     float: left;
+    text-align: left;
     width: 30%;
   }
 

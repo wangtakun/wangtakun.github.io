@@ -14,17 +14,17 @@ Princeton University
 
 <hr>
 
-Email:  
-  
+Email:
+
 *takun.wang@princeton.edu*
-  
+
 <hr>
-  
-Links:  
+
+Links:
 
 [*Curriculum Vitae*](https://drive.google.com/file/d/1YKjheNhJ9ViEE0HNoPQ6EqBIXrAWeoRr/view?usp=sharing)
 
-[*Princeton Sociology*](https://sociology.princeton.edu/people/takun-wang) 
+[*Princeton Sociology*](https://sociology.princeton.edu/people/takun-wang)
 
 [*GitHub*](https://github.com/wangtakun)
 
@@ -36,25 +36,23 @@ Links:
 # Biography
 <hr>
 
-Welcome! My name is Takun (rhymes with “tycoon”) and I am a Ph.D. student in Sociology and Social Policy at Princeton University.  
+Welcome! My name is Takun (rhymes with "tycoon") and I am a Ph.D. student in Sociology and Social Policy at Princeton University.
 
-My research interests lie at the intersection of social stratification and the sociology of education, with a focus on using quantitative methods—including causal inference, experimental designs, and computational techniques—to inform equity-promoting policies. My work seeks to address a central question: **To what extent, and how, can schooling alleviate social inequalities?** I have explored this question through three key dimensions:
+I study **how education systems allocate opportunity — and to what extent schooling can alleviate, rather than reproduce, social inequality**. My current research centers on the **transition from high school to college**: how students move into higher education and how opportunities for it are allocated. Within this transition, college admissions is the central allocation moment, with students on the demand side and institutions on the supply side — together shaping both who gains access and what counts as "merit."
 
-* **Access to education**, examined in my master’s thesis on parental school choice.
+This agenda grows out of a broader interest in three aspects of educational inequality, which I study primarily with quantitative and causal inference methods:
 
-* **The effects of schooling**, analyzed in a working paper on the heterogeneous impacts of schooling on cognitive and non-cognitive skills.
+* **Access to education**, examined in my paper under review on parental school choice.
 
-* **Institutional processes within schools**, the subject of my published papers on curriculum development and AI in educational practice.  
+* **The effects of schooling**, analyzed in a working paper on the heterogeneous impacts of schooling on cognitive and noncognitive skills.
 
-<br>
-
-I graduated with a B.A. in sociology from National Taiwan University and subsequently worked as a secondary school teacher and administrator in rural Taiwan for three years. Prior to starting at Princeton, I received a M.A. in education from National Taiwan Normal University, where I earned a scholarship to visit UC Berkeley for the 2023-24 academic year.  
-
-Currently, I’m investigating the role of standardized testing in college admissions, addressing the debate on whether such policies promote equity or reinforce privilege.
+* **The processes within schools**, the subject of my published papers on curriculum development and AI in educational practice.
 
 <br>
 
-Please feel free to get in touch via [*email*](takun.wang@princeton.edu) or connect with me on [*X (formerly Twitter)*](https://x.com/takun_wang)!
+I graduated with a B.A. in sociology from National Taiwan University and worked as a secondary school teacher and administrator in rural Taiwan for three years — an experience that keeps my research anchored in questions of educational equity. Before Princeton, I received an M.A. in education from National Taiwan Normal University, where I earned a scholarship to visit UC Berkeley for an academic year.
+
+I'm happy to hear from you!
 
 <br>
 <br>
@@ -72,14 +70,16 @@ Please feel free to get in touch via [*email*](takun.wang@princeton.edu) or conn
 
 <h4> Paper Under Review </h4>
 
-* **Wang, Takun**. "Institutionalizing 'Experimental Education': Between Alternative Education and State-Led Educational Experiments." (R&R, *Bulletin of Education Research*)
+* **Wang, Takun**. "School Distinction: How Social Class Shapes Parental School Choice." (R&R)
 
 <br>
 
 <h4> Published Papers </h4>
 
-* Fan, Hsin-Hsien and **Takun Wang**. 2025. "Exploring the Future Directions of Taiwan's Curriculum Development From the Perspective of International Educational Trends." *Journal of Education Research 371*: 118–32.
+* **Wang, Takun**. 2025. "Institutionalizing 'Experimental Education': The Tension Between Alternative Education and State-Led Educational Experiments." *Bulletin of Education Research* 71(3): 123–167. [DOI](https://doi.org/10.6910/BER.202509_71%283%29.0002)
 
-* Lu, Ray and **Takun Wang**. 2023. "Crisis or Opportunity? The Disruption and Innovation of Artificial Intelligence in School Education——Starting with ChatGPT." *Journal of Education Research 355*: 4–15. 
+* Fan, Hsin-Hsien and **Takun Wang**. 2025. "Exploring the Future Directions of Taiwan's Curriculum Development From the Perspective of International Educational Trends." *Journal of Education Research 371*: 118–32. [DOI](https://doi.org/10.53106/168063602025030371007)
+
+* Lu, Ray and **Takun Wang**. 2023. "Crisis or Opportunity? The Disruption and Innovation of Artificial Intelligence in School Education—Starting with ChatGPT." *Journal of Education Research 355*: 4–15. [DOI](https://doi.org/10.53106/168063602023110355001)
 
 </div>

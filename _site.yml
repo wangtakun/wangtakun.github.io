@@ -1,5 +1,6 @@
 title: "Takun Wang"
 name: "Website"
+output_dir: "."
 navbar:
     title: "TAKUN WANG"
     right:

@@ -9,3 +9,12 @@ Thumbs.db
 .RData
 .Rproj.user
 .Rapp.history
+
+# Ignore editor state (Obsidian)
+.obsidian/
+
+# Ignore local assistant tooling (Claude Code)
+.claude/
+
+# Ignore private notes (never rendered, never published)
+notes/
